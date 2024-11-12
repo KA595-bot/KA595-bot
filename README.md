@@ -1,5 +1,5 @@
  # 💫 About Me:
-🔭 I’m currently working on HooYia e-learning platform<br>👯 I’m looking to collaborate on more front end projects<br>🌱 I’m currently learning Next.js and Typescript<br>💬 Ask me about react dev roles<br>
+🔭 I’m currently working on HooYia e-learning platform<br>👯 I’m looking to collaborate on more front end projects<br>🌱 I’m currently learning Next.js and Typescript<br>💬 Interested in react dev roles<br>
 
 
 ## 🌐 Socials:
